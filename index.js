@@ -20,5 +20,5 @@ function makeInt(n) {
   return parseInt
 }
 function makeInt(n) {
-  return parseInt(n, n)
+  return parseInt(NaN)
 }
