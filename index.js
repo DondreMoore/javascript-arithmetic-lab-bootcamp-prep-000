@@ -5,5 +5,5 @@ function subtract(a, b) {
   return a-b
 }
 function multiply(a, b) {
-  return 5*5
+  return a*b
 }
