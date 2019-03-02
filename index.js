@@ -1,3 +1,3 @@
 function add(a, b) {
-  return 932
+  return Number
 }
