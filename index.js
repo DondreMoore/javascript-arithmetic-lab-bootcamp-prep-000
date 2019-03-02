@@ -10,7 +10,10 @@ function multiply(a, b) {
 function divide(a, b) {
   return Number
 }
- function ++() {
+ function  {
    return Number
  }
- 
+ function  {
+   return Number
+ }
+ function
