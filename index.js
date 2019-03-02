@@ -1,5 +1,5 @@
 function add(a, b) {
-  return Number
+  return Number.toEqual(a + b)
 }
 function subtract(a, b) {
   return Number 
